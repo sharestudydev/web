@@ -3,8 +3,8 @@
 /* BEGIN Light */
 @font-face {
   font-family: 'Open Sans';
-  src: url("../fonts/open-sans/Light/OpenSans-Light.eot%3Fv=1.1.0");
-  src: url("../fonts/open-sans/Light/OpenSans-Light.eot%3F") format("embedded-opentype"), url("../fonts/open-sans/Light/OpenSans-Light.woff2%3Fv=1.1.0.html") format("woff2"), url("../fonts/open-sans/Light/OpenSans-Light.woff%3Fv=1.1.0") format("woff"), url("../fonts/open-sans/Light/OpenSans-Light.ttf%3Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Light/OpenSans-Light.svg%3Fv=1.1.0") format("svg");
+  src: url("../fonts/open-sans/Light/OpenSans-Light.eot_Fv=1.1.0");
+  src: url("../fonts/open-sans/Light/OpenSans-Light.eot_F") format("embedded-opentype"), url("../fonts/open-sans/Light/OpenSans-Light.woff2_Fv=1.1.0.html") format("woff2"), url("../fonts/open-sans/Light/OpenSans-Light.woff_Fv=1.1.0") format("woff"), url("../fonts/open-sans/Light/OpenSans-Light.ttf_Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Light/OpenSans-Light.svg_Fv=1.1.0") format("svg");
   font-weight: 300;
   font-style: normal; }
 /* END Light */
@@ -12,8 +12,8 @@
 /* BEGIN Regular */
 @font-face {
   font-family: 'Open Sans';
-  src: url("../fonts/open-sans/Regular/OpenSans-Regular.eot%3Fv=1.1.0");
-  src: url("../fonts/open-sans/Regular/OpenSans-Regular.eot%3F") format("embedded-opentype"), url("../fonts/open-sans/Regular/OpenSans-Regular.woff2%3Fv=1.1.0.html") format("woff2"), url("../fonts/open-sans/Regular/OpenSans-Regular.woff%3Fv=1.1.0") format("woff"), url("../fonts/open-sans/Regular/OpenSans-Regular.ttf%3Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Regular/OpenSans-Regular.svg%3Fv=1.1.0") format("svg");
+  src: url("../fonts/open-sans/Regular/OpenSans-Regular.eot_Fv=1.1.0");
+  src: url("../fonts/open-sans/Regular/OpenSans-Regular.eot_F") format("embedded-opentype"), url("../fonts/open-sans/Regular/OpenSans-Regular.woff2_Fv=1.1.0.html") format("woff2"), url("../fonts/open-sans/Regular/OpenSans-Regular.woff_Fv=1.1.0") format("woff"), url("../fonts/open-sans/Regular/OpenSans-Regular.ttf_Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Regular/OpenSans-Regular.svg_Fv=1.1.0") format("svg");
   font-weight: normal;
   font-style: normal; }
 /* END Regular */
@@ -21,8 +21,8 @@
 /* BEGIN Semibold */
 @font-face {
   font-family: 'Open Sans';
-  src: url("../fonts/open-sans/Semibold/OpenSans-Semibold.eot%3Fv=1.1.0");
-  src: url("../fonts/open-sans/Semibold/OpenSans-Semibold.eot%3F") format("embedded-opentype"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.woff2%3Fv=1.1.0.html") format("woff2"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.woff%3Fv=1.1.0") format("woff"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.ttf%3Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.svg%3Fv=1.1.0") format("svg");
+  src: url("../fonts/open-sans/Semibold/OpenSans-Semibold.eot_Fv=1.1.0");
+  src: url("../fonts/open-sans/Semibold/OpenSans-Semibold.eot_F") format("embedded-opentype"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.woff2_Fv=1.1.0.html") format("woff2"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.woff_Fv=1.1.0") format("woff"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.ttf_Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.svg_Fv=1.1.0") format("svg");
   font-weight: 600;
   font-style: normal; }
 /* END Semibold */
@@ -30,8 +30,8 @@
 /* BEGIN Bold */
 @font-face {
   font-family: 'Open Sans';
-  src: url("../fonts/open-sans/Bold/OpenSans-Bold.eot%3Fv=1.1.0");
-  src: url("../fonts/open-sans/Bold/OpenSans-Bold.eot%3F") format("embedded-opentype"), url("../fonts/open-sans/Bold/OpenSans-Bold.woff2%3Fv=1.1.0.html") format("woff2"), url("https://wbscc.wb.gov.in/assets/v2/css/fonts/Bold/OpenSans-Bold.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/Bold/OpenSans-Bold.ttf%3Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Bold/OpenSans-Bold.svg%3Fv=1.1.0") format("svg");
+  src: url("../fonts/open-sans/Bold/OpenSans-Bold.eot_Fv=1.1.0");
+  src: url("../fonts/open-sans/Bold/OpenSans-Bold.eot_F") format("embedded-opentype"), url("../fonts/open-sans/Bold/OpenSans-Bold.woff2_Fv=1.1.0.html") format("woff2"), url("https://wbscc.wb.gov.in/assets/v2/css/fonts/Bold/OpenSans-Bold.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/Bold/OpenSans-Bold.ttf_Fv=1.1.0") format("truetype"), url("../fonts/open-sans/Bold/OpenSans-Bold.svg_Fv=1.1.0") format("svg");
   font-weight: bold;
   font-style: normal; }
 /* END Bold */
